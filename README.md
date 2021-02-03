@@ -1,5 +1,5 @@
 # Simple tournament
-A simple tournament website originally made for a small local csgo tournament
+A simple tournament website using php and css I made long time ago, originally made for a small local csgo tournament  
 
 # How to set it up
 Create a database called 'tournament'  
